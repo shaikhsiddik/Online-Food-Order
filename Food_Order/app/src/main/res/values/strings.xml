@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Online_Food_Order</string>
+    <string name="Slogan">LOVE YOUR FOOD EVERYDAY...</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="food_name">Food Name</string>
+
+
+    <string name="_1000">1000</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="_11111">#11111</string>
+    <string name="address">Address</string>
+    <string name="_8888545738">8888545738</string>
+    <string name="status">Status</string>
+
+    <string name="forgot_PWD">Forgot Password?</string>
+
+    <!--Rating Dialog-->
+    <style name="RatingDialogStyle" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@android:color/white</item>
+
+    </style>
+
+    <style name="RatingDialogButtonStyle" parent="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="RatingDialogFadeAnim">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+
+    </style>
+
+    <string name="facebook_app_id">209998753149733</string>
+    <string name="facebook_login_protocol_name">fb209998753149733</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_tracking">Map</string>
+
+</resources>

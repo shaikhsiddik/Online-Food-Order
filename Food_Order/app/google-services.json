@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "68020849733",
+    "firebase_url": "https://foodorder-30521.firebaseio.com",
+    "project_id": "foodorder-30521",
+    "storage_bucket": "foodorder-30521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68020849733:android:6bd3075303a33847",
+        "android_client_info": {
+          "package_name": "com.example.ssquare.online_food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68020849733-v8h22jdellb41q90u4c2s5qtc1qkht8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ssquare.online_food_order",
+            "certificate_hash": "4044a8f56a1c532823d6c6e7daaa659829b87a60"
+          }
+        },
+        {
+          "client_id": "68020849733-ln9gftm8dekfif3roc6128gm5juidc3p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "68020849733-ln9gftm8dekfif3roc6128gm5juidc3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCdqJ-HDA77wNVa2ZWeBVzuQOCa7OH_CE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68020849733-ln9gftm8dekfif3roc6128gm5juidc3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
